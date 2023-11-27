@@ -1,0 +1,3 @@
+[submodule "PokeFinderCXX"]
+	path = PokeFinder
+	url = https://github.com/SteveCookTU/PokeFinder.git

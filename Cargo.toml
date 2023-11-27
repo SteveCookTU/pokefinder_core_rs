@@ -1,0 +1,15 @@
+[package]
+name = "pokefinder_core_rs"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+autocxx = "0.26.0"
+cxx = "1.0.110"
+
+[build-dependencies]
+autocxx-build = "0.26.0"
+miette = "5.10.0"
+cmake = "0.1.50"
